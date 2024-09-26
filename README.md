@@ -22,15 +22,8 @@ The project follows a structured approach to tackle brain tumor classification:
 3. **Thresholding for Feature Extraction**: Use thresholding techniques to highlight important features within the images.
 4. **Developing and Training a CNN Model**: Design a CNN architecture and train the model on the preprocessed images for classification.
 
-## Installation and Usage
-
-Instructions for setting up the project and using the toolkit will go here. Include steps for installing dependencies, downloading the dataset, and running the main code.
-
 ## Dataset
 
 This project uses a dataset of 248 MRI images available on Kaggle at [this link](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection). The dataset includes images classified as either having a tumor or not, presenting a unique challenge due to its limited size.
 
-## Contributing
-
-We welcome contributions to the BrainTumorClassifier project! If you're interested in helping, please take a look at our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to submit pull requests, report issues, or suggest enhancements.
 
